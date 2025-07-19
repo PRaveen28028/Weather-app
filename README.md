@@ -1,3 +1,8 @@
+# Weather App
+
+![Weather App Screenshot](./assets/Screenshot 2025-07-19 214446.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
