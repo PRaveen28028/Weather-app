@@ -1,6 +1,6 @@
 # Weather App
 
-![Weather App Screenshot](./assets/Screenshot 2025-07-19 214446.png)
+![Weather App Screenshot](https://raw.githubusercontent.com/PRaveen28028/Weather-app/main/Screenshot%202025-07-19%20214446.png)
 
 
 # Getting Started with Create React App
